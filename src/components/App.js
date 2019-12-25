@@ -13,7 +13,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Dapp University
+            Marketplace
           </a>
         </nav>
         <div className="container-fluid mt-5">
